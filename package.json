@@ -1,0 +1,29 @@
+{
+  "name": "basic-messaging",
+  "version": "1.0.0",
+  "description": "messaging using socketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmunson/Basic-Messaging-Node.git"
+  },
+  "keywords": [
+    "messaging",
+    "socket",
+    "express"
+  ],
+  "author": "wes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmunson/Basic-Messaging-Node/issues"
+  },
+  "homepage": "https://github.com/wmunson/Basic-Messaging-Node#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "socket.io": "^2.0.3"
+  }
+}
